@@ -1,11 +1,11 @@
 // CloudZ Token
 // SYMBOL: CLOUDZ
 
-// 10% tax over every Transfer
-// 5% fee for holders
-// 2% fee for liquidity pool
-// 1% fee auto distributed to the marketingwallet
+// 10% tax for every Transfer
+// 5% fee distributed to holders
+// 2% fee added to liquidity pool
 // 2% fee burn
+// 1% fee collected for marketing
 
 pragma solidity ^0.6.12;
 
